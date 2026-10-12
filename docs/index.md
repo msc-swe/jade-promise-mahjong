@@ -4,7 +4,7 @@ title: Jade Promise Mahjong
 
 # Jade Promise Mahjong
 
-Calm, classic mahjong solitaire with big, readable tiles and one promise: **you never watch an ad to keep playing.**
+Calm, classic mahjong solitaire with big, readable tiles and one promise: **no ad ever interrupts a board, and the shuffle is always free.**
 
 - **Every board can be cleared.** Each deal is built from a winning sequence.
 - **Stuck? The shuffle is free.** Before offering a free shuffle, the app replays your whole game from its seed to confirm that no matching pair is left. We call this *Replay-checked*.

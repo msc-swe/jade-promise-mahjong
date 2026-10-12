@@ -9,8 +9,8 @@ Questions, problems or ideas? Email **[support@eurobaselabs.com](mailto:support@
 
 ## Common questions
 
-**Do I ever have to watch an ad to keep playing?**
-No. You never need to watch an ad to continue a board, to use a hint you already have, or to get the free shuffle when you are stuck. The game shows a small banner at the top of the screen while you play and an occasional full-screen ad *between* boards, never during one.
+**Will an ad ever interrupt a board?**
+No. While you play a board, the only ad is a small banner at the top of the screen. Full-screen ads appear only *between* boards, after you clear one (never in your first three boards, and at most one every two boards). You never need to watch an ad to finish a board, to use a hint you already have, or to get the free shuffle when you are stuck.
 
 **What does "Replay-checked" mean?**
 When you run out of moves, the app replays your whole game from its starting seed and confirms that no matching pair is left. Only then does it give you the free shuffle. Each check is saved as a certificate; you can find and share them in **Settings → Your certificates**.

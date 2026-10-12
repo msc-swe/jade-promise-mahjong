@@ -1,6 +1,6 @@
 # Jade Promise Mahjong: open rules engine and verifier
 
-Jade Promise Mahjong is a mahjong solitaire game where **you never watch an ad to keep playing**. Every deal can be solved, and whenever a game reaches a dead end (no matching pair left), the app replays the game from its seed to confirm it before offering a free shuffle. Each dead end produces a **certificate**.
+Jade Promise Mahjong is a mahjong solitaire game where **no ad ever interrupts a board, and the shuffle is always free**. Every deal can be solved, and whenever a game reaches a dead end (no matching pair left), the app replays the game from its seed to confirm it before offering a free shuffle. Each dead end produces a **certificate**.
 
 This repository makes that claim auditable. It contains:
 
