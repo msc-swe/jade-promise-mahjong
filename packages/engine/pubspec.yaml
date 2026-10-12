@@ -1,0 +1,11 @@
+name: mahjong_engine
+description: Deterministic Mahjong solitaire rules, deal generator and replay verifier.
+publish_to: none
+version: 0.1.0
+environment:
+  sdk: ^3.13.0
+resolution: workspace
+dependencies:
+  crypto: ^3.0.6
+dev_dependencies:
+  test: ^1.25.0

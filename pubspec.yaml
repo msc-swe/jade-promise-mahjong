@@ -1,0 +1,7 @@
+name: verified_shuffle_mahjong_verifier_workspace
+publish_to: none
+environment:
+  sdk: ^3.13.0
+workspace:
+  - packages/engine
+  - packages/verifier_cli

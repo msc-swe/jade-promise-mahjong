@@ -1,0 +1,12 @@
+name: verifier_cli
+description: Standalone verifier for Jade Promise Mahjong certificates.
+publish_to: none
+version: 0.1.0
+environment:
+  sdk: ^3.13.0
+resolution: workspace
+dependencies:
+  mahjong_engine:
+    path: ../engine
+executables:
+  verifier_cli: verifier_cli
